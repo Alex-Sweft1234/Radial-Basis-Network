@@ -1,0 +1,45 @@
+C:\Users\babae_000\YandexDisk\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe.config
+C:\Users\babae_000\YandexDisk\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe
+C:\Users\babae_000\YandexDisk\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.pdb
+C:\Users\babae_000\YandexDisk\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csprojResolveAssemblyReference.cache
+C:\Users\babae_000\YandexDisk\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Form1.resources
+C:\Users\babae_000\YandexDisk\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Properties.Resources.resources
+C:\Users\babae_000\YandexDisk\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csproj.GenerateResource.Cache
+C:\Users\babae_000\YandexDisk\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.exe
+C:\Users\babae_000\YandexDisk\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.pdb
+C:\Users\student410\Desktop\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csprojResolveAssemblyReference.cache
+C:\Users\student410\Desktop\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Form1.resources
+C:\Users\student410\Desktop\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Properties.Resources.resources
+C:\Users\student410\Desktop\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csproj.GenerateResource.Cache
+C:\Users\student410\Desktop\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.exe
+C:\Users\student410\Desktop\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe.config
+C:\Users\student410\Desktop\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe
+C:\Users\student410\Desktop\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.pdb
+C:\Users\student410\Desktop\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.pdb
+C:\Users\babae_000\Desktop\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe.config
+C:\Users\babae_000\Desktop\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.exe
+C:\Users\babae_000\Desktop\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.pdb
+C:\Users\babae_000\Desktop\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe
+C:\Users\babae_000\Desktop\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.pdb
+C:\Users\babae_000\Desktop\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csprojResolveAssemblyReference.cache
+C:\Users\babae_000\Desktop\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Form1.resources
+C:\Users\babae_000\Desktop\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Properties.Resources.resources
+C:\Users\babae_000\Desktop\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csproj.GenerateResource.Cache
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe.config
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.exe
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.pdb
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.pdb
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csprojResolveAssemblyReference.cache
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Form1.resources
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Properties.Resources.resources
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csproj.GenerateResource.Cache
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe.config
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.exe
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.pdb
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.exe
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\RBFNet\RBFNet\bin\Debug\RBFNet.pdb
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csprojResolveAssemblyReference.cache
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Form1.resources
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.Properties.Resources.resources
+C:\Users\babae_000\YandexDisk\Отчет по практике\Реализация Форма Нейросеть\RBFNet\RBFNet\obj\Debug\RBFNet.csproj.GenerateResource.Cache
